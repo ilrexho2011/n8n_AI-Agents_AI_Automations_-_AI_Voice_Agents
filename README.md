@@ -2,13 +2,14 @@
 Ready-to-Use n8n Templates to Build AI Agents &amp; Automate Workflows with OpenAI, Mistral, Retell, MCP, RAG
 
 Build no-code AI Agents, AI Automations, AI Voice Agents and Teams of AI Agents with n8n & Retell AI
-EXTRA - Get 90+ PREMIUM AI agent templates to fast-track your projects to the next level once you’ve learned the basics
-Use the same 90+ PREMIUM pre-made AI solutions to reuse, customize, build on top of - and SELL as part of your services
-Get a 30-day roadmap to start your AI Automation Agency (PDF) – set up tools, learn the basics, build your portfolio, and launch your first service
-Create business-ready AI automation, AI Agents and AI Voice Agents for real-world use cases
-MCP (Model Context Protocol): How to Set Up and Use It for AI Agents in n8n + Cloud Desktop App
-Learn how to self-host n8n to unlock unlimited workflows, community nodes & full data control – includes EXCLUSIVE STUDENT DISCOUNT
-Explore the core foundations of n8n: nodes, triggers, APIs, webhooks, data handling, workflow testing & more - perfect for beginners
+EXTRA 
+- PREMIUM AI agent templates to fast-track your projects to the next level once you’ve learned the basics
+<br />Use the PREMIUM pre-made AI solutions to reuse, customize, build on top of - and SELL as part of your services
+<br />30-day roadmap to start your AI Automation Agency (PDF) – set up tools, learn the basics, build your portfolio, and launch your first service
+<br />Create business-ready AI automation, AI Agents and AI Voice Agents for real-world use cases
+<br />MCP (Model Context Protocol): How to Set Up and Use It for AI Agents in n8n + Cloud Desktop App
+<br />Learn how to self-host n8n to unlock unlimited workflows, community nodes & full data control – includes EXCLUSIVE STUDENT DISCOUNT
+<br />Explore the core foundations of n8n: nodes, triggers, APIs, webhooks, data handling, workflow testing & more - perfect for beginners
 Build a business-ready Receptionist AI Voice Agent with n8n & Retell AI (adaptable to any industry)
 Learn how to build AI Agents and AI automations to start your own AI Automation Agency (AAA)
 Connect OpenAI, Retell AI, Eleven Labs, WhatsApp, Telegram, Google, and more to n8n
